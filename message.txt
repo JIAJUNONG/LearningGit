@@ -1,5 +1,2 @@
 Hello World!
 
-testing branch a
-
-testing branch b
